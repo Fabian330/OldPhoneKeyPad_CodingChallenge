@@ -24,5 +24,5 @@ input is "27 7055533#" and output = "APP LE"
 input is "27 7155533#" and output = "APP,LE"
 
 And you can combine them
-input is "44 4441027 79*55533#" and output = "HI, APPLE"
+input is "44 4441027 79* 55533#" and output = "HI, APPLE"
 notice the "9*" I intentionally added a "W" but I deleted it with "*" 
