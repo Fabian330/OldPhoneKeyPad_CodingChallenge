@@ -1,0 +1,7 @@
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\bin\Debug\OldPhoneKeyPad_CodingChallenge.exe.config
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\bin\Debug\OldPhoneKeyPad_CodingChallenge.exe
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\bin\Debug\OldPhoneKeyPad_CodingChallenge.pdb
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\obj\Debug\OldPhoneKeyPad_CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\obj\Debug\OldPhoneKeyPad_CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\obj\Debug\OldPhoneKeyPad_CodingChallenge.exe
+C:\Users\fabia\OneDrive\Desktop\OldPhoneKeyPad_CodingChallenge\obj\Debug\OldPhoneKeyPad_CodingChallenge.pdb
